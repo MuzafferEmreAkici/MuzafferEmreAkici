@@ -30,7 +30,3 @@ This repository contains Python analysis of Nobel Prize winners from 1901 to 201
 - Visualization and interpretation of Nobel Prize winners' countries and ages in Chemistry, Literature, Peace, Physics, and Medicine categories after 2000.
 
 ---
-
-For detailed analyses, refer to the Jupyter Notebook `Nobel_Prize_Winners_Analysis.ipynb` in this repository.
-
-For any questions or further discussions, please contact [Your Name] at [Your Email Address].
